@@ -16,6 +16,5 @@ def cipher(text):
     return result
 
 text = input("What do you want to encode?:")
-
 print(cipher(text))
 
